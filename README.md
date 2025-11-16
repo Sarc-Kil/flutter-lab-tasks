@@ -1,10 +1,10 @@
-## 📱 Практические работы
+##  Практические работы
 
 ### 1. **Экосистема управления мероприятиями (Event Management Platform)**
 
 **Уровень сложности:** ⭐⭐⭐⭐⭐
 
-**Figma макет:** [Event Management Mobile App UI KIT](https://www.figma.com/community/file/1337193154968736195/event-management-mobile-app-ui-kit)
+**Figma макет:** [Event Management Mobile App UI KIT](https://www.figma.com/community/file/1325355478944000716/event-booking-page)
 
 **Техническое задание:**
 - Многопользовательская система с ролями (организатор, участник, модератор)
