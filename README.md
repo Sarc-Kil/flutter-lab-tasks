@@ -4,7 +4,7 @@
 
 **Уровень сложности:** ⭐⭐⭐⭐⭐
 
-**Figma макет:** [Event Management Mobile App UI KIT](https://www.figma.com/community/file/1325355478944000716/event-booking-page)
+**Figma макет:** [Event Management Mobile APP](https://www.figma.com/community/file/1325355478944000716/event-booking-page)
 
 **Техническое задание:**
 - Многопользовательская система с ролями (организатор, участник, модератор)
@@ -28,7 +28,7 @@
 
 **Уровень сложности:** ⭐⭐⭐⭐⭐
 
-**Figma макет:** [Clicon - eCommerce Marketplace Website Figma Template](https://www.figma.com/community/file/1450480473551543808/clicon-ecommerce-marketplace-website-figma-template-community)
+**Figma макет:** [Clicon - eCommerce Marketplace Website Figma Template](https://www.figma.com/community/file/1529044976946434564/ecommerce-mobile-app-ui-kit)
 
 **Техническое задание:**
 - Каталог продуктов с продвинутыми фильтрами (категории, бренды, цена, наличие, рейтинг)
@@ -53,7 +53,7 @@
 
 **Уровень сложности:** ⭐⭐⭐⭐⭐
 
-**Figma макет:** [Mobile Chat Figma UI Kits](https://www.figma.com/community/file/1210895933231815200/mobile-chat-figma-ui-kits-brix-templates)
+**Figma макет:** [Mobile Chat Figma UI Kits](https://www.figma.com/community/file/1449270016971829144/chatbot-app-ui-kit-design-v1)
 
 **Техническое задание:**
 - Личные и групповые чаты с поддержкой до 1000 участников
@@ -79,7 +79,7 @@
 
 **Уровень сложности:** ⭐⭐⭐⭐
 
-**Figma макет:** [Smart City](https://www.figma.com/community/file/1431227659690677248/smart-city)
+**Figma макет:** [Smart City](https://www.figma.com/community/file/1561398275272990334/smart-city-application-use-case)
 
 **Техническое задание:**
 - Мониторинг городских сервисов (парковки, общественный транспорт, события)
@@ -104,7 +104,7 @@
 
 **Уровень сложности:** ⭐⭐⭐⭐
 
-**Figma макет:** [Learnify - Education & Online Learning App UI Kit](https://www.figma.com/community/file/1470813590992160219/learnify-education-online-learning-app-ui-kit)
+**Figma макет:** [Learnify - Education & Online Learning App UI Kit](https://www.figma.com/community/file/1487161196293402501/education-online-learning-app)
 
 **Техническое задание:**
 - Расписание занятий с синхронизацией с календарём
@@ -130,7 +130,7 @@
 
 **Уровень сложности:** ⭐⭐⭐⭐
 
-**Figma макет:** [HealthSync – A Smart Health & Fitness Tracker UI](https://www.figma.com/community/file/1476197225077162989/healthsync-a-smart-health-fitness-tracker-ui)
+**Figma макет:** [HealthSync – A Smart Health & Fitness Tracker UI](https://www.figma.com/community/file/1570314545866418502/45-premium-online-gym-ui-kit)
 
 **Техническое задание:**
 - Трекинг физической активности (шаги, калории, расстояние)
@@ -156,7 +156,7 @@
 
 **Уровень сложности:** ⭐⭐⭐⭐⭐
 
-**Figma макет:** [Smartify - Smart Home App UI Kit](https://www.figma.com/community/file/1323187335812463835/smartify-smart-home-app-ui-kit)
+**Figma макет:** [Smartify - Smart Home App UI Kit](https://www.figma.com/community/file/1267700864769513997/smart-home-app-ui-kit)
 
 **Техническое задание:**
 - Управление умными устройствами (освещение, климат, безопасность)
@@ -181,7 +181,7 @@
 
 **Уровень сложности:** ⭐⭐⭐⭐⭐
 
-**Figma макет:** [Fintrack app — AI-Powered Personal Finance app](https://www.figma.com/community/file/1437411417620577539/fintrack-app-ai-powered-personal-finance-app)
+**Figma макет:** [Fintrack app — AI-Powered Personal Finance app](https://www.figma.com/community/file/1423501025483126625/finpal-ai-finance-assistant-app-ui-kit)
 
 **Техническое задание:**
 - Мультивалютные счета с курсами валют в реальном времени
@@ -207,7 +207,7 @@
 
 **Уровень сложности:** ⭐⭐⭐⭐
 
-**Figma макет:** [Freelance App UI Kit - Mobile Templates](https://www.figma.com/community/file/1385723845636014652/freelance-app-ui-kit-mobile-templates)
+**Figma макет:** [Freelance App UI Kit - Mobile Templates](https://www.figma.com/community/file/1076609425686201098/mobile-templates)
 
 **Техническое задание:**
 - Двусторонняя платформа (фрилансеры и заказчики)
@@ -233,7 +233,7 @@
 
 **Уровень сложности:** ⭐⭐⭐⭐⭐
 
-**Figma макет:** [TokTok - Social Media App UI Kit](https://www.figma.com/community/file/1214794071381480205/toktok-social-media-app-ui-kit)
+**Figma макет:** [TokTok - Social Media App UI Kit](https://www.figma.com/community/file/1206579395978691308/social-media-app-ui-design)
 
 **Техническое задание:**
 - Лента с алгоритмической персонализацией контента
